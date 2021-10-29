@@ -1,3 +1,4 @@
+
 ## Domain 1: Identity and Access Management 
 
 1. [IAM Overview](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/1.%20IAM%20Overview.pdf)
@@ -111,10 +112,8 @@ S3 Policies, ACL
    3.Simulate 
    4.Iterate
 
-
-
-
-
-
-
-
+My notes Reference are the following: 
+1. https://aws.amazon.com/blogs/security
+2. https://learn.cantrill.io/p/aws-certified-solutions-architect-professional
+3. https://acloudguru.com/
+4. https://jayendrapatil.com/aws-certified-security-speciality-scs-c01-exam-learning-path
