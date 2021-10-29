@@ -1,23 +1,23 @@
 ## Domain 1: Identity and Access Management 
 
-1. IAM Overview
-2. IAM Policy
-3. Policy Evaluation Logic
-4. Trust Policy
-5. Permission Boundary
-6. ABAC for AWS
-7. IAM Role
-8. AWS STS, Revoking Temporary Credentials
-9. IAM Access Analyzer 
-10. IAM Credential Report
-11. Identity Providers and Federation
-12. Web Identity Federation
-13. AWS Cognito
-14. Web Identity Federation API
-15. AWS SSO
-16. SAML 2.0 Identity Federation
-17. Custom Identity broker Federation
-18. AWS Organization
+1. [IAM Overview](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/1.%20IAM%20Overview.pdf)
+2. [IAM Policy](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+3. [Policy Evaluation Logic](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+4. [Trust Policy](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+5. [Permission Boundary](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+6. [ABAC for AWS](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+7. [IAM Role](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+8. [AWS STS, Revoking Temporary Credentials](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+9. [IAM Access Analyzer](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf) 
+10. [IAM Credential Report](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+11. [Identity Providers and Federation](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+12. [Web Identity Federation](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+13. [AWS Cognito](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+14. [Web Identity Federation API](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+15. [AWS SSO](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+16. [SAML 2.0 Identity Federation](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+17. [Custom Identity broker Federation](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
+18. [AWS Organization](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
 
 ## Domain 2: Logging and Monitoring
 
