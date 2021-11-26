@@ -3,7 +3,7 @@
 
 1. [IAM Overview](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/1.%20IAM%20Overview.pdf)
 2. [IAM Policy](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/2.%20IAM%20Policy.pdf)
-3. [Policy Evaluation Logic](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/3.%20Policy%20Evaluation%20Logic.pdf)
+3. [Policy Evaluation Logic](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/3.%20Policy%20Evaluation%20Logic%20(1).pdf)
 4. [Trust Policy](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/4.%20Trust%20Policy.pdff)
 5. [Permission Boundary](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/5.%20Permissions%20Boundaries%20and%20Use%20cases.pdf)
 6. [ABAC for AWS](https://github.com/Tevaalgorithms/AWS_Security/blob/main/Identity%20%20and%20%20Access%20Management/6.%20ABAC%20for%20AWS.pdf)
